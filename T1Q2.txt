@@ -1,0 +1,4 @@
+nano ~/.zshrc 
+alias FinalProject="cd ~/Documents/code/sun00215_Final_Project"
+source ~/.zshrc
+FinalProject
